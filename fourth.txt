@@ -1,1 +1,3 @@
 this is working area file
+this is staging area file
+this is commited area
