@@ -2,3 +2,6 @@
 
 
 there are three logical areas of git.
+working area
+stagging area
+committed area
